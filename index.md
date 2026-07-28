@@ -115,8 +115,3 @@ UPGPT 是面向国内 ChatGPT 用户的第三方自助升级服务，适合没�
 ### 商标与免责声明
 
 ChatGPT、GPT、OpenAI 等名称和商标归其各自权利人所有。本仓库仅用于介绍第三方升级服务流程，不代表 OpenAI 官方背书。使用任何第三方服务前，请自行评估账号、隐私、支付和售后风险。
----
-layout: default
-title: 2026 ChatGPT Plus / Pro 自助升级教程
-description: 无海外信用卡时，通过第三方 UPGPT 为原 ChatGPT 账号升级 Plus、Pro 5X 或 Pro 20X 的完整流程与安全提醒。
----
