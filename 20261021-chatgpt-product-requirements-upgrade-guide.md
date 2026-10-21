@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "产品经理怎么升级 ChatGPT 整理需求？UPGPT 开通与验收标准示例"
-description: "以模糊搜索需求为例，给出结构化输入、可观察验收条件、未决项处理和需求编号到测试的映射方法；明确未给定响应时间不得编造。不是重复浏览器/支付/续费说明。"
+description: "把模糊产品需求整理成可测试的验收条件，附具体提示词与需求示例，以及UPGPT原账号升级的价格、支付和四步操作。"
 permalink: /guides/20261021/chatgpt-product-requirements-upgrade-guide.html
 ---
 

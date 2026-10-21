@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "写长文、改稿怎么用 ChatGPT？从创作简报到 UPGPT 原账号升级教程"
-description: "针对长文作者提供先简报与证据提纲、逐节起草、按重复论点/含糊表述/无来源数字逐项改稿的可执行流程和两条具体提示词；围绕创作频率选档，与既有支付渠道和设备教程不同。"
+description: "从创作简报、证据提纲到分段改稿，给出可直接使用的写作提示词，并附UPGPT原账号升级的套餐价格、完整四步和图解。"
 permalink: /guides/20261021/chatgpt-writing-brief-revision-upgrade.html
 ---
 

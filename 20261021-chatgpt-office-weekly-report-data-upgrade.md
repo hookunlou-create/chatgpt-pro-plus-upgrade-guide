@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "办公室周报怎么用 ChatGPT 整理？脱敏数据练习与 UPGPT 升级完整教程"
-description: "以办公室周报为独特场景，提供虚构脱敏CSV小表、限定分析口径的完整提示词、期初/新增/完成/期末勾稽关系及可人工复算答案，强调完成超过新增的正确解释；不依赖或承诺文件上传和代码执行。"
+description: "用虚构脱敏数据核对周报合计和处理率，提供提示词与人工复算示例，并介绍UPGPT原账号升级的当前价格和完整流程。"
 permalink: /guides/20261021/chatgpt-office-weekly-report-data-upgrade.html
 ---
 

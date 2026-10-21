@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "自由设计师怎么升级 ChatGPT？从客户简报整理到 UPGPT 原账号开通教程"
-description: "以独立设计项目的客户简报为独特场景，提供已知/未知输入边界、完整提案整理提示词、设计稿与上线网站范围区分、可验证交付验收示例及人工复核方法；场景内容独立于普通升级说明。"
+description: "把客户简报整理成提案范围、交付物和验收条件，附设计师工作示例与UPGPT选套餐、付款、验证、核验的四步图解。"
 permalink: /guides/20261021/chatgpt-freelance-designer-proposal-upgrade.html
 ---
 

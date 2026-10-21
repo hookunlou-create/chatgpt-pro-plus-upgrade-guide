@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "用 ChatGPT 练外语和准备面试：练习方法与 UPGPT 原账号升级教程"
-description: "提供三轮外语对话后聚焦两处错误并重试的练习循环，以及基于真实经历、逐题追问的面试训练提示词；明确验收为自主表达，与已有设备、支付、首次开通文章有实质区别。"
+description: "用三轮外语对话和逐题面试练习建立反馈循环，了解UPGPT套餐选择、支付宝微信付款及原账号升级的四步操作。"
 permalink: /guides/20261021/chatgpt-language-interview-practice-upgrade.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "程序员怎么升级 ChatGPT 辅助调试？UPGPT 开通与最小复现工作法"
-description: "围绕已有项目调试提供三段具体工作法：最小复现字段、金额小数错误输入样例、正常/零/非法/小数四类本地验收。与既有泛用套餐、浏览器及续费文章存在实际内容差异。"
+description: "用最小复现、错误输入与补丁验收改善ChatGPT调试沟通，附UPGPT当前套餐价格、付款验证流程和原账号核验图解。"
 permalink: /guides/20261021/chatgpt-developer-debugging-upgrade-guide.html
 ---
 

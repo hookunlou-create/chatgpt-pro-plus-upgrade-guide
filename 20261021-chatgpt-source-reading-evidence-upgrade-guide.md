@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "长资料怎么用 ChatGPT 整理？UPGPT 升级与证据表阅读工作法"
-description: "提供来源与段落编号、五列证据表输入、试点范围与未来计划的区别示例，以及先核证据再写摘要的分批长资料工作法；不承诺实时检索、文件上限或模型能力。"
+description: "给长资料编号并建立证据表，逐项核对引用、条件与结论，附UPGPT套餐选择和原账号升级的完整图文操作。"
 permalink: /guides/20261021/chatgpt-source-reading-evidence-upgrade-guide.html
 ---
 

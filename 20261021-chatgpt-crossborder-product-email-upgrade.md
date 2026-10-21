@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "跨境卖家如何用 ChatGPT 写商品文案和客户邮件？附 UPGPT 升级四步"
-description: "面向跨境业务提供商品事实表、双语输出与逐项验收方法，以及不承诺未确认送达日的客户邮件提示词；包含具体输入与验收条件，不编造营销效果，区别于既有通用升级教程。"
+description: "用事实表整理商品卖点与客户邮件，核对参数和交期承诺，并按图解完成UPGPT选套餐、人民币付款、账户验证与升级核验。"
 permalink: /guides/20261021/chatgpt-crossborder-product-email-upgrade.html
 ---
 

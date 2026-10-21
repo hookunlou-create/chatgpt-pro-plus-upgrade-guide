@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "已有 ChatGPT Plus 想换 Pro？UPGPT 选套餐到核验的完整升级教程"
-description: "既有Pro5X文只把Plus换Pro放在一句FAQ。本篇完整区分同档续费与换档，围绕目标商品选择、既有Plus周期、订单金额不能自行按差价计算、目标账号验证与换档后的结果核验展开；把Pro5X与20X放在同一篇，避免拆成重复文章。"
+description: "已有ChatGPT Plus如何更换Pro套餐？介绍UPGPT当前价格、原账号覆盖说明、支付宝或微信付款、完整Session JSON验证及套餐核验。"
 permalink: /guides/20261021/chatgpt-plus-to-pro-switch-complete-guide.html
 ---
 
