@@ -4,14 +4,17 @@
 
 # 2026 ChatGPT Plus / Pro 5X / Pro 20X 自助升级教程
 
+[查看全部升级图文教程：续费、Plus 转 Pro、写作、外贸、开发等场景](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/guides.html)
+
+作者：UPGPT 运营，本文由 AI 辅助整理。
+
 没有海外 Visa / Mastercard，或者不熟悉 ChatGPT 官网订阅流程，也可以使用人民币完成 GPT 付费套餐升级。本教程介绍如何通过 **UPGPT** 为自己的原 ChatGPT 账号升级 **GPT Plus、GPT Pro 5X 或 GPT Pro 20X**。
 
 > 官网入口：[https://upgpt.pro](https://upgpt.pro)  
-> 更新时间：2026 年 7 月 14 日。套餐、价格与页面流程可能调整，请以下单页面实时信息为准。
+> 更新时间：2026 年 10 月 21 日。套餐、价格与页面流程可能调整，请以下单页面实时信息为准。
 
 [![立即查看套餐](https://img.shields.io/badge/立即查看套餐-UPGPT-1677ff?style=for-the-badge)](https://upgpt.pro)
 
-![UPGPT GPT Plus / Pro 自助升级首页](upgpt-home.png)
 
 ## UPGPT 是什么？
 
@@ -30,10 +33,10 @@ UPGPT 是面向国内 ChatGPT 用户的第三方自助升级服务，适合没�
 | 套餐 | 参考价格 | 适合人群 | 主要特点 |
 | --- | ---: | --- | --- |
 | GPT Plus | ¥188 / 月 | 日常对话、办公、学习、轻度开发 | 原账号升级，支持主流高级模型与 Codex |
-| GPT Pro 5X | ¥888 / 月 | 高频对话、专业开发、长任务 | 约 5 倍使用额度，适合深度研究和较高频 Codex 使用 |
-| GPT Pro 20X | ¥1,588 / 月 | 重度开发、研究、内容生产 | 约 20 倍使用额度，适合高强度 Codex 和复杂长任务 |
+| GPT Pro 5X | ¥888 / 月 | 高频对话、专业开发、长任务 | 适合高频使用与专业开发，具体权益以下单说明为准 |
+| GPT Pro 20X | ¥1,680 / 月 | 重度开发、研究、内容生产 | 适合重度使用与复杂长任务，具体权益以下单说明为准 |
 
-![GPT Plus、Pro 5X、Pro 20X 套餐价格对比](plans.png)
+![GPT Plus、Pro 5X、Pro 20X 当前套餐价格](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-current-plans-20261021.jpg)
 
 > 所有套餐均为**覆盖式充值**。如果当前会员尚未到期，确认充值后会覆盖现有会员状态，请在付款前核对剩余有效期。
 
@@ -43,33 +46,31 @@ UPGPT 是面向国内 ChatGPT 用户的第三方自助升级服务，适合没�
 
 打开 [UPGPT 官网](https://upgpt.pro)，在套餐区域选择 Plus、Pro 5X 或 Pro 20X，然后点击“选择此套餐”。
 
-![选择 GPT Plus 或 Pro 套餐](step-1-select-plan.jpg)
 
 ### 第二步：创建订单并完成支付
 
 填写用于订单查询和必要售后联系的联系方式，创建订单后使用页面显示的支付宝或微信二维码完成付款。
 
-![填写联系方式并创建订单](step-2-create-order.png)
+![填写联系方式并创建订单（未填写个人信息）](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-order-payment-20261021.jpg)
 
 ### 第三步：按订单页提示提交账户授权信息
 
-付款成功后，订单会进入“待提交信息”状态。按照订单专属页面的提示登录 GPT、获取本次充值所需的授权信息，并在原订单页面提交验证。
+付款成功后，订单会进入“待提交信息”状态。按照订单专属页面的提示登录 GPT、获取完整 Session JSON，并在原订单页面提交验证。
 
-![在已付款订单中提交账户授权信息](step-3-submit-info.png)
 
 > **安全提醒：** 账户授权信息的敏感程度等同登录凭据。只从 [https://upgpt.pro](https://upgpt.pro) 进入订单流程；不要通过微信、QQ、邮件、群聊或陌生链接转发，不要公开截图。处理完成后建议退出其他设备会话并检查账号安全状态。
 
 ### 第四步：等待处理并确认套餐
 
-系统通常会在 3–5 分钟内完成处理。订单显示升级成功后，重新登录或刷新 ChatGPT，确认账号套餐和权益已经更新。
+网站标注通常约 3–5 分钟处理，实际以订单状态为准。订单显示升级成功后，重新登录或刷新 ChatGPT，确认账号套餐和权益已经更新。
 
-![GPT Pro 升级成功示例](step-4-success.png)
+![四步操作示意，非真实订单或到账证明](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-upgrade-flow-20261021.png)
 
 ## 常见问题
 
 ### 需要提供 ChatGPT 账号密码吗？
 
-页面不要求直接填写账号密码，但订单处理需要一次性账户授权信息。它同样属于敏感登录凭据，必须只在从 UPGPT 官网进入的订单专属页面提交。
+页面不要求直接填写账号密码，但订单处理需要完整 Session JSON 会话信息。它同样属于敏感登录凭据，必须只在从 UPGPT 官网进入的订单专属页面提交。
 
 ### 已经是 Plus 或 Pro，还能充值吗？
 

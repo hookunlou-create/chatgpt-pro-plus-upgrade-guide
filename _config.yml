@@ -6,3 +6,6 @@ url: https://hookunlou-create.github.io
 baseurl: /chatgpt-pro-plus-upgrade-guide
 plugins:
   - jekyll-seo-tag
+
+header_pages:
+  - guides.md
