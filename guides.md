@@ -18,3 +18,10 @@ permalink: /guides.html
 - [办公室周报怎么用 ChatGPT 整理？脱敏数据练习与 UPGPT 升级完整教程](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/guides/20261021/chatgpt-office-weekly-report-data-upgrade.html)
 
 [返回主教程](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/) · [UPGPT 当前套餐](https://upgpt.pro/purchase?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261021_daily&utm_content=guide-directory)
+
+## 2026年10月27日新增：续费与电脑扫码完整教程
+
+- [ChatGPT Plus / Pro 怎么续费？UPGPT 同档套餐原账号完整操作教程](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/guides/20261027/chatgpt-same-plan-renewal-complete.html)
+- [电脑下单、手机扫码怎么升级 ChatGPT？UPGPT 原账号完整教程](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/guides/20261027/chatgpt-desktop-order-mobile-scan-upgrade.html)
+
+以上两篇分别说明同档续费和电脑下单、手机扫码的完整操作，均含当前三档套餐、四步与三张配图；属于既有操作教程的本站分发。
