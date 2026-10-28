@@ -17,7 +17,7 @@ description: 无海外信用卡时，通过第三方 UPGPT 为原 ChatGPT 账号
 没有海外 Visa / Mastercard，或者不熟悉 ChatGPT 官网订阅流程，也可以使用人民币完成 GPT 付费套餐升级。本教程介绍如何通过 **UPGPT** 为自己的原 ChatGPT 账号升级 **GPT Plus、GPT Pro 5X 或 GPT Pro 20X**。
 
 > 官网入口：[https://upgpt.pro](https://upgpt.pro)  
-> 更新时间：2026 年 10 月 21 日。套餐、价格与页面流程可能调整，请以下单页面实时信息为准。
+> 更新时间：2026 年 10 月 28 日。套餐、价格与页面流程可能调整，请以下单页面实时信息为准。
 
 [![立即查看套餐](https://img.shields.io/badge/立即查看套餐-UPGPT-1677ff?style=for-the-badge)](https://upgpt.pro)
 
@@ -38,11 +38,11 @@ UPGPT 是面向国内 ChatGPT 用户的第三方自助升级服务，适合没�
 
 | 套餐 | 参考价格 | 适合人群 | 主要特点 |
 | --- | ---: | --- | --- |
-| GPT Plus | ¥188 / 月 | 日常对话、办公、学习、轻度开发 | 原账号升级，支持主流高级模型与 Codex |
-| GPT Pro 5X | ¥888 / 月 | 高频对话、专业开发、长任务 | 适合高频使用与专业开发，具体权益以下单说明为准 |
-| GPT Pro 20X | ¥1,680 / 月 | 重度开发、研究、内容生产 | 适合重度使用与复杂长任务，具体权益以下单说明为准 |
+| GPT Plus | ¥158 / 月 | 日常对话、办公、学习、轻度开发 | 原账号升级，支持主流高级模型与 Codex |
+| GPT Pro 5X | ¥780 / 月 | 高频对话、专业开发、长任务 | 适合高频使用与专业开发，具体权益以下单说明为准 |
+| GPT Pro 20X | ¥1,480 / 月 | 重度开发、研究、内容生产 | 适合重度使用与复杂长任务，具体权益以下单说明为准 |
 
-![GPT Plus、Pro 5X、Pro 20X 当前套餐价格](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-current-plans-20261021.jpg)
+![GPT Plus、Pro 5X、Pro 20X 当前套餐价格](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-current-plans-20261028.jpg)
 
 > 所有套餐均为**覆盖式充值**。如果当前会员尚未到期，确认充值后会覆盖现有会员状态，请在付款前核对剩余有效期。
 
@@ -57,7 +57,7 @@ UPGPT 是面向国内 ChatGPT 用户的第三方自助升级服务，适合没�
 
 填写用于订单查询和必要售后联系的联系方式，创建订单后使用页面显示的支付宝或微信二维码完成付款。
 
-![填写联系方式并创建订单（未填写个人信息）](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-order-payment-20261021.jpg)
+![填写联系方式并创建订单（未填写个人信息）](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-order-payment-20261028.jpg)
 
 ### 第三步：按订单页提示提交账户授权信息
 
@@ -70,7 +70,7 @@ UPGPT 是面向国内 ChatGPT 用户的第三方自助升级服务，适合没�
 
 网站标注通常约 3–5 分钟处理，实际以订单状态为准。订单显示升级成功后，重新登录或刷新 ChatGPT，确认账号套餐和权益已经更新。
 
-![四步操作示意，非真实订单或到账证明](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-upgrade-flow-20261021.png)
+![四步操作示意（2026年10月21日版本），非真实订单或到账证明](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-upgrade-flow-20261021.png)
 
 ## 常见问题
 
