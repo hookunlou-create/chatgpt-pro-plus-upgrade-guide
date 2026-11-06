@@ -25,3 +25,8 @@ permalink: /guides.html
 - [电脑下单、手机扫码怎么升级 ChatGPT？UPGPT 原账号完整教程](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/guides/20261027/chatgpt-desktop-order-mobile-scan-upgrade.html)
 
 以上两篇分别说明同档续费和电脑下单、手机扫码的完整操作，均含当前三档套餐、四步与三张配图；属于既有操作教程的本站分发。
+
+
+## 2026年11月价格公告
+
+- [UPGPT套餐价格与开票说明：Plus 129元/月起](./upgpt-prices-20261106.html)（价格说明，含配图；非升级操作教程）
