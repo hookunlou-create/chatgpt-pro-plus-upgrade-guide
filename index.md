@@ -1,118 +1,66 @@
 ---
 layout: default
-title: 2026 ChatGPT Plus / Pro 自助升级教程
-description: 无海外信用卡时，通过第三方 UPGPT 为原 ChatGPT 账号升级 Plus、Pro 5X 或 Pro 20X 的完整流程与安全提醒。
+title: "UPGPT ChatGPT 套餐价格与开票说明：Plus 129元/月起"
+description: "UPGPT四档人民币参考月价、支付宝与微信付款、订单查询和发票申请资料说明；2026年11月8日复核。"
 ---
 
-<p align="center">
-  <img src="upgpt-logo.png" width="160" alt="UPGPT Logo">
-</p>
+# UPGPT ChatGPT 套餐价格与开票说明：Plus 129元/月起
 
-# 2026 ChatGPT Plus / Pro 5X / Pro 20X 自助升级教程
+想了解 ChatGPT 相关服务的人民币报价，并提前安排付款、查单或开票？可以先从 [UPGPT 官网](https://upgpt.pro/?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261108_price_invoice_update&utm_content=current-price-invoice) 查看当前商品。本页集中说明四档月价，以及订单查询和发票申请需要保留的信息。
 
-[查看全部升级图文教程：续费、Plus 转 Pro、写作、外贸、开发等场景](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/guides.html)
-
-作者：UPGPT 运营，本文由 AI 辅助整理。
-
-没有海外 Visa / Mastercard，或者不熟悉 ChatGPT 官网订阅流程，也可以使用人民币完成 GPT 付费套餐升级。本教程介绍如何通过 **UPGPT** 为自己的原 ChatGPT 账号升级 **GPT Plus、GPT Pro 5X 或 GPT Pro 20X**。
-
-> 官网入口：[https://upgpt.pro](https://upgpt.pro)  
-> 更新时间：2026 年 10 月 28 日。套餐、价格与页面流程可能调整，请以下单页面实时信息为准。
-
-[![立即查看套餐](https://img.shields.io/badge/立即查看套餐-UPGPT-1677ff?style=for-the-badge)](https://upgpt.pro)
+UPGPT 运营发布｜商业推广，AI辅助整理｜2026年11月8日复核。UPGPT 是独立第三方服务，与 OpenAI 无隶属关系。
 
 
-## UPGPT 是什么？
+## 四档套餐，当前参考月价
 
-UPGPT 是面向国内 ChatGPT 用户的第三方自助升级服务，适合没有海外信用卡、支付被拒，或不熟悉官网订阅操作的用户。
+| UPGPT 商品名称 | 人民币参考价格 |
+| --- | --- |
+| GPT Plus | ¥129 / 月 |
+| GPT Pro 100 | ¥699 / 月 |
+| GPT Pro 200 | ¥1,299 / 月 |
+| GPT PRO 500 | ¥3,299 / 月 |
 
-- 原 ChatGPT 账号升级，不是多人共享账号
-- 支持 GPT Plus、GPT Pro 5X、GPT Pro 20X
-- 支持支付宝 / 微信支付
-- 7×24 小时自助下单，通常 3–5 分钟完成处理
-- 可在订单页面查询处理状态
+以上采用 UPGPT 当天公开商品名称，不代表 OpenAI 官方套餐名称。具体权益、可用状态和实付金额，以 [购买页](https://upgpt.pro/purchase?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261108_price_invoice_update&utm_content=current-price-invoice) 当时展示为准。
 
-**重要说明：** UPGPT 是独立第三方服务平台，并非 OpenAI 官方网站，与 OpenAI 没有隶属关系。
+[![UPGPT四档套餐价格截图：Plus129、Pro100699、Pro2001299、PRO5003299元每月](https://raw.githubusercontent.com/hookunlou-create/chatgpt-pro-plus-upgrade-guide/main/upgpt-price-cards-20261106.png)](https://raw.githubusercontent.com/hookunlou-create/chatgpt-pro-plus-upgrade-guide/main/upgpt-price-cards-20261106.png)
 
-## 套餐怎么选？
-
-| 套餐 | 参考价格 | 适合人群 | 主要特点 |
-| --- | ---: | --- | --- |
-| GPT Plus | ¥158 / 月 | 日常对话、办公、学习、轻度开发 | 原账号升级，支持主流高级模型与 Codex |
-| GPT Pro 5X | ¥780 / 月 | 高频对话、专业开发、长任务 | 适合高频使用与专业开发，具体权益以下单说明为准 |
-| GPT Pro 20X | ¥1,480 / 月 | 重度开发、研究、内容生产 | 适合重度使用与复杂长任务，具体权益以下单说明为准 |
-
-![GPT Plus、Pro 5X、Pro 20X 当前套餐价格](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-current-plans-20261028.jpg)
-
-> 所有套餐均为**覆盖式充值**。如果当前会员尚未到期，确认充值后会覆盖现有会员状态，请在付款前核对剩余有效期。
-
-## 自助升级流程
-
-### 第一步：从官网选择套餐
-
-打开 [UPGPT 官网](https://upgpt.pro)，在套餐区域选择 Plus、Pro 5X 或 Pro 20X，然后点击“选择此套餐”。
+*原截图拍摄于2026年11月6日；套餐名称和价格于2026年11月8日按公开页面复核。划线价仅为当时网站展示，未独立核验历史成交价。*
 
 
-### 第二步：创建订单并完成支付
+## 支付宝、微信付款；查单密码独立设置
 
-填写用于订单查询和必要售后联系的联系方式，创建订单后使用页面显示的支付宝或微信二维码完成付款。
+当前购买页提供支付宝和微信支付。下单时填写的联系方式需要保留原内容，之后查询订单时会用到。
 
-![填写联系方式并创建订单（未填写个人信息）](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-order-payment-20261028.jpg)
+购买页要求设置8–64位独立查单密码，用于查询订单和申请发票。它不是 ChatGPT 登录密码，不要与 ChatGPT 密码混用。
 
-### 第三步：按订单页提示提交账户授权信息
-
-付款成功后，订单会进入“待提交信息”状态。按照订单专属页面的提示登录 GPT、获取完整 Session JSON，并在原订单页面提交验证。
+需要查询时，从 [订单查询与发票申请入口](https://upgpt.pro/order/search?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261108_price_invoice_update&utm_content=current-price-invoice) 使用原下单联系方式和查单密码。未设置查单密码的旧订单，可通过原订单详情链接查看；链接遗失时，按网站提示联系客服核验。
 
 
-> **安全提醒：** 账户授权信息的敏感程度等同登录凭据。只从 [https://upgpt.pro](https://upgpt.pro) 进入订单流程；不要通过微信、QQ、邮件、群聊或陌生链接转发，不要公开截图。处理完成后建议退出其他设备会话并检查账号安全状态。
+## 有开票需求，提前准备哪些资料？
 
-### 第四步：等待处理并确认套餐
+网站提供发票申请入口。商家 [隐私政策](https://upgpt.pro/privacy?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261108_price_invoice_update&utm_content=current-price-invoice) 写明，开票申请会收集以下资料，用于人工审核、开票与投递：
 
-网站标注通常约 3–5 分钟处理，实际以订单状态为准。订单显示升级成功后，重新登录或刷新 ChatGPT，确认账号套餐和权益已经更新。
+- 单位名称
+- 单位税号
+- 收票邮箱
 
-![四步操作示意（2026年10月21日版本），非真实订单或到账证明](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/upgpt-upgrade-flow-20261021.png)
+开票金额按本笔订单获取。若用于单位报销，建议先核对所需抬头和收票邮箱，再按具体订单提供的功能申请。
 
-## 常见问题
+各档订单的开票适用条件、发票类型、税率及办理时间，请以商家确认和订单页面为准；本次未核验实际发票表单或完成开票。
 
-### 需要提供 ChatGPT 账号密码吗？
 
-页面不要求直接填写账号密码，但订单处理需要完整 Session JSON 会话信息。它同样属于敏感登录凭据，必须只在从 UPGPT 官网进入的订单专属页面提交。
+## 购买前了解实际服务条件
 
-### 已经是 Plus 或 Pro，还能充值吗？
+UPGPT 采用覆盖式充值，可能覆盖当前套餐和剩余会员周期。已有会员时，应先确认是否接受这一规则。
 
-可以，但当前套餐会被覆盖。请先确认现有会员剩余时间是否可以接受被覆盖，再继续付款和提交。
+当前实际履约仍要求提供完整 ChatGPT Session JSON，其中可能包含可访问账号的登录令牌。独立查单密码没有替代这一要求；不接受该账户授权条件时，请勿购买。本文不提供会话或令牌的获取、复制或提交步骤。
 
-### 一般多久完成？
+套餐与履约条件可查看 [UPGPT 服务条款](https://upgpt.pro/terms?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261108_price_invoice_update&utm_content=current-price-invoice)；处理结果以订单状态和原账号实际套餐为准，不承诺固定到账时间。
 
-网站标注通常为 3–5 分钟。实际时间会受支付确认、账号状态和系统处理情况影响，请以订单状态为准。
 
-### 升级后在哪里使用？
+## 查看当前报价
 
-升级绑定在原 ChatGPT 账号上。确认权益到账后，可继续使用该账号登录 ChatGPT 网页端或官方客户端。
+[打开 UPGPT 购买页，查看套餐与当次金额](https://upgpt.pro/purchase?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261108_price_invoice_update&utm_content=current-price-invoice)。有开票需求时，可在付款前通过官网客服确认具体订单是否适用。
 
-### 付款后没有马上升级怎么办？
+[历史文章目录](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/guides.html) 保留供查阅，其中部分页面为旧版本；价格、名称和当前服务条件以本页及商家最新页面为准。
 
-先通过站内“查询订单”核对状态，不要重复创建订单。需要协助时，以官网公布的客服入口为准，并只提供订单号等必要信息；不要在聊天工具中发送账户授权信息。
-
-## 下单前检查清单
-
-- 确认当前访问的是 [https://upgpt.pro](https://upgpt.pro)
-- 核对套餐名称、价格以及是否会覆盖现有会员
-- 使用自己的常用联系方式，以便查询订单
-- 只在订单专属页面提交账户授权信息
-- 完成后刷新 ChatGPT 并核对套餐状态
-
-## 相关入口
-
-- [UPGPT 官网](https://upgpt.pro)
-- [选择套餐](https://upgpt.pro/#pricing)
-- [使用教程](https://upgpt.pro/blog)
-- [查询订单](https://upgpt.pro/order/search)
-
----
-
-如果这篇教程对你有帮助，欢迎点一个 **Star** 收藏。后续套餐或流程变化会继续在本仓库更新。
-
-### 商标与免责声明
-
-ChatGPT、GPT、OpenAI 等名称和商标归其各自权利人所有。本仓库仅用于介绍第三方升级服务流程，不代表 OpenAI 官方背书。使用任何第三方服务前，请自行评估账号、隐私、支付和售后风险。
