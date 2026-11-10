@@ -1,14 +1,19 @@
 ---
 layout: default
 title: "UPGPT ChatGPT 套餐价格与开票说明：Plus 129元/月起"
-description: "UPGPT四档人民币参考月价、Free与会员同价规则、支付宝与微信付款、查单和开票资料说明；2026年11月9日复核。"
+description: "UPGPT四档人民币参考月价、旧账号名纠正、Free与会员同价规则、支付宝与微信付款、查单和开票资料说明；2026年11月10日复核。"
 ---
 
 # UPGPT ChatGPT 套餐价格与开票说明：Plus 129元/月起
 
-想了解 ChatGPT 相关服务的人民币报价，并提前安排付款、查单或开票？可以先从 [UPGPT 官网](https://upgpt.pro/?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261109_existing_member_price&utm_content=current-price-invoice) 查看当前商品。本页集中说明四档月价，以及订单查询和发票申请需要保留的信息。
+想了解 ChatGPT 相关服务的人民币报价，并提前安排付款、查单或开票？可以先从 [UPGPT 官网](https://upgpt.pro/?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261110_price_correction&utm_content=current-price-invoice) 查看当前商品。本页集中说明四档月价，以及订单查询和发票申请需要保留的信息。
 
-UPGPT 运营发布｜商业推广，AI辅助整理｜2026年11月9日复核。UPGPT 是独立第三方服务，与 OpenAI 无隶属关系。
+UPGPT 运营发布｜商业推广，AI辅助整理｜2026年11月10日复核。UPGPT 是独立第三方服务，与 OpenAI 无隶属关系。
+
+
+## 旧报价与运营账号
+
+UPGPT 的运营 X 账号显示名称已由“GPTPLUS 15usdt”改为“UPGPT｜ChatGPT 套餐价格”。“15usdt”是旧账号名称中的文字，不是当前报价。本页采用人民币月价，实际付款金额以购买页当时展示为准。运营账号：[UPGPT｜ChatGPT 套餐价格](https://x.com/NOONOOOHOOO)。
 
 
 ## 四档套餐，当前参考月价
@@ -20,11 +25,11 @@ UPGPT 运营发布｜商业推广，AI辅助整理｜2026年11月9日复核。UP
 | GPT Pro 200 | ¥1,299 / 月 |
 | GPT PRO 500 | ¥3,299 / 月 |
 
-以上采用 UPGPT 当天公开商品名称，不代表 OpenAI 官方套餐名称。具体权益、可用状态和实付金额，以 [购买页](https://upgpt.pro/purchase?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261109_existing_member_price&utm_content=current-price-invoice) 当时展示为准。
+以上采用 UPGPT 当天公开商品名称，不代表 OpenAI 官方套餐名称。具体权益、可用状态和实付金额，以 [购买页](https://upgpt.pro/purchase?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261110_price_correction&utm_content=current-price-invoice) 当时展示为准。
 
 [![UPGPT首页快捷选套餐截图：GPT Plus 129元、GPT Pro 100 699元、GPT Pro 200 1299元、GPT PRO 500 3299元](https://raw.githubusercontent.com/hookunlou-create/chatgpt-pro-plus-upgrade-guide/main/upgpt-four-prices-20261109.jpg)](https://raw.githubusercontent.com/hookunlou-create/chatgpt-pro-plus-upgrade-guide/main/upgpt-four-prices-20261109.jpg)
 
-*2026年11月9日 UPGPT 首页快捷选套餐区域实拍；图中展示四档商品与当前参考金额，月度周期按官网套餐详情区另行复核。*
+*2026年11月9日 UPGPT 首页快捷选套餐区域实拍；2026年11月10日复核，图中四档名称与参考金额仍有效。月度周期按官网套餐详情区另行复核。*
 
 
 ## 已有会员与下单联系方式：两项常见问题
@@ -44,12 +49,12 @@ UPGPT 运营发布｜商业推广，AI辅助整理｜2026年11月9日复核。UP
 
 购买页要求设置8–64位独立查单密码，用于查询订单和申请发票。它不是 ChatGPT 登录密码，不要与 ChatGPT 密码混用。
 
-需要查询时，从 [订单查询与发票申请入口](https://upgpt.pro/order/search?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261109_existing_member_price&utm_content=current-price-invoice) 使用原下单联系方式和查单密码。未设置查单密码的旧订单，可通过原订单详情链接查看；链接遗失时，按网站提示联系客服核验。
+需要查询时，从 [订单查询与发票申请入口](https://upgpt.pro/order/search?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261110_price_correction&utm_content=current-price-invoice) 使用原下单联系方式和查单密码。未设置查单密码的旧订单，可通过原订单详情链接查看；链接遗失时，按网站提示联系客服核验。
 
 
 ## 有开票需求，提前准备哪些资料？
 
-网站提供发票申请入口。商家 [隐私政策](https://upgpt.pro/privacy?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261109_existing_member_price&utm_content=current-price-invoice) 写明，开票申请会收集以下资料，用于人工审核、开票与投递：
+网站提供发票申请入口。商家 [隐私政策](https://upgpt.pro/privacy?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261110_price_correction&utm_content=current-price-invoice) 写明，开票申请会收集以下资料，用于人工审核、开票与投递：
 
 - 单位名称
 - 单位税号
@@ -66,12 +71,12 @@ UPGPT 采用覆盖式充值，可能覆盖当前套餐和剩余会员周期。�
 
 当前实际履约仍要求提供完整 ChatGPT Session JSON，其中可能包含可访问账号的登录令牌。独立查单密码没有替代这一要求；不接受该账户授权条件时，请勿购买。本文不提供会话或令牌的获取、复制或提交步骤。
 
-套餐与履约条件可查看 [UPGPT 服务条款](https://upgpt.pro/terms?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261109_existing_member_price&utm_content=current-price-invoice)；处理结果以订单状态和原账号实际套餐为准，不承诺固定到账时间。
+套餐与履约条件可查看 [UPGPT 服务条款](https://upgpt.pro/terms?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261110_price_correction&utm_content=current-price-invoice)；处理结果以订单状态和原账号实际套餐为准，不承诺固定到账时间。
 
 
 ## 查看当前报价
 
-[打开 UPGPT 购买页，查看套餐与当次金额](https://upgpt.pro/purchase?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261109_existing_member_price&utm_content=current-price-invoice)。有开票需求时，可在付款前通过官网客服确认具体订单是否适用。
+[打开 UPGPT 购买页，查看套餐与当次金额](https://upgpt.pro/purchase?utm_source=github_pages&utm_medium=article&utm_campaign=organic_20261110_price_correction&utm_content=current-price-invoice)。有开票需求时，可在付款前通过官网客服确认具体订单是否适用。
 
 [历史文章目录](https://hookunlou-create.github.io/chatgpt-pro-plus-upgrade-guide/guides.html) 保留供查阅，其中部分页面为旧版本；价格、名称和当前服务条件以本页及商家最新页面为准。
 
